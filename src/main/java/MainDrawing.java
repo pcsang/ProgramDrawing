@@ -20,5 +20,6 @@ public class MainDrawing {
             Control.Drawing(cavas);
         }else
             System.out.println("----Bye----");
+        System.out.println("----See you again----");
     }
 }
